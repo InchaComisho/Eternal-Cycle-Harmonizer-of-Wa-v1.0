@@ -1,8 +1,3 @@
-英語版もかなり整っていて、そのまま README / note 両対応で使えます。  
-細かい自然さと一貫性だけ少しだけ手直しした「ほぼそのまま版」を下にまとめます（そのままコピペで OK）。
-
-***
-
 ## Eternal Cycle — Harmonizer of Wa —  
 A Civilization-Tuning Action RPG About Sustainable Worlds
 
