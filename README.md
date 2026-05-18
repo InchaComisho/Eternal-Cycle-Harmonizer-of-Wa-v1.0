@@ -300,7 +300,7 @@ Civilization Tuning RPG, Action RPG, Time Loop, Sustainable Civilization, Harmon
 
 ■関連リンク
 
-Eternal Cycle — 和の調律者 —  
+Eternal Cycle — 和の調律者 — v1.0  
 https://note.com/inchacomusho/n/n6ffa72218fbd
 
 Eternal Cycle — Harmonizer of Wa —v1.0  
