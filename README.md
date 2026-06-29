@@ -282,6 +282,11 @@ The player is a **civilization harmonizer**.
 
 ## License
 
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
 **Fully Open** — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 
 (For GitHub, you might still want to add a separate `LICENSE` file with a concrete license like CC BY or CC0.)
