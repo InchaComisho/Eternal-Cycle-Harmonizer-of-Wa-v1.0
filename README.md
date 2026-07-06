@@ -1,6 +1,8 @@
 ## Eternal Cycle — Harmonizer of Wa —  
 A Civilization-Tuning Action RPG About Sustainable Worlds
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ### What Is Eternal Cycle?
 
 **Eternal Cycle** is a game concept that combines:
