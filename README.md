@@ -317,26 +317,12 @@ Civilization Tuning RPG, Action RPG, Time Loop, Sustainable Civilization, Harmon
 
 ■関連リンク
 
-Eternal Cycle — 和の調律者 — v1.0  
-https://note.com/inchacomusho/n/n6ffa72218fbd
-
 Eternal Cycle — Harmonizer of Wa —v1.0  
 https://github.com/InchaComisho/Eternal-Cycle-Harmonizer-of-Wa-v1.0
-
-Eternal Cycle — 和の調律者 —  
-https://note.com/inchacomusho/n/n3e0e286ac0c7
 
 Eternal Cycle — Harmonizer of Wa  
 https://github.com/InchaComisho/Eternal-Cycle-Harmonizer-of-Wa
 
-Eternal Cycle— 和の調律者 —  
-https://note.com/inchacomusho/n/n90806d2d5810
-
 Eternal Cycle — Harmonizer of Wa —  
 https://github.com/InchaComisho/Eternal-Cycle-Harmonizer-of-Wa-
 
-Eternal Cycle: 和の調律者— 持続する文明を問い続けるアクションRPG構想 —  
-https://note.com/inchacomusho/n/n6239d13e72fb
-
-魔王エターナル  
-https://note.com/inchacomusho/n/ncf57b2493b7c
